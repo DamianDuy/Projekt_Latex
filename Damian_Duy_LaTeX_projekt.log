@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.12.20)  23 DEC 2019 20:10
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.12.20)  26 DEC 2019 13:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -549,21 +549,25 @@ Package caption3 Info: TeX engine: e-TeX on input line 67.
 \sf@top=\skip49
 \sf@bottom=\skip50
 )
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip11
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
 (./Damian_Duy_LaTeX_projekt.aux)
 \openout1 = `Damian_Duy_LaTeX_projekt.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -637,78 +641,103 @@ e
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: subfig package v1.3 is loaded.
 Package caption Info: End \AtBeginDocument code.
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 23.
+
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+(./Damian_Duy_LaTeX_projekt.toc)
+\tf@toc=\write3
+\openout3 = `Damian_Duy_LaTeX_projekt.toc'.
+
+ (./Damian_Duy_LaTeX_projekt.lof)
+\tf@lof=\write4
+\openout4 = `Damian_Duy_LaTeX_projekt.lof'.
+
+
+(./Damian_Duy_LaTeX_projekt.lot)
+\tf@lot=\write5
+\openout5 = `Damian_Duy_LaTeX_projekt.lot'.
+
+ [2]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 29.
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 23.
- [1
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 29.
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 50--51
+Underfull \hbox (badness 10000) in paragraph at lines 55--56
 
  []
 
-<rysunek375.jpg, id=18, 150.5625pt x 166.6225pt>
+<rysunek375.jpg, id=14, 150.5625pt x 166.6225pt>
 File: rysunek375.jpg Graphic file (type jpg)
 <use rysunek375.jpg>
-Package pdftex.def Info: rysunek375.jpg  used on input line 59.
+Package pdftex.def Info: rysunek375.jpg  used on input line 64.
 (pdftex.def)             Requested size: 117.00119pt x 129.48703pt.
-<rysunek369.jpg, id=19, 150.5625pt x 174.6525pt>
+<rysunek369.jpg, id=15, 150.5625pt x 174.6525pt>
 File: rysunek369.jpg Graphic file (type jpg)
 <use rysunek369.jpg>
-Package pdftex.def Info: rysunek369.jpg  used on input line 64.
+Package pdftex.def Info: rysunek369.jpg  used on input line 69.
 (pdftex.def)             Requested size: 117.00119pt x 135.72737pt.
-<rysunek367.jpg, id=20, 150.5625pt x 140.525pt>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<rysunek367.jpg, id=16, 150.5625pt x 140.525pt>
 File: rysunek367.jpg Graphic file (type jpg)
 <use rysunek367.jpg>
-Package pdftex.def Info: rysunek367.jpg  used on input line 70.
+Package pdftex.def Info: rysunek367.jpg  used on input line 75.
 (pdftex.def)             Requested size: 117.00119pt x 109.20593pt.
 
-Underfull \hbox (badness 1005) in paragraph at lines 71--71
+Underfull \hbox (badness 1005) in paragraph at lines 76--76
 []\T1/cmr/m/n/12 Rysunek 3: |Czwo-ro-
  []
 
-<rysunek371.jpg, id=21, 150.5625pt x 193.72375pt>
+<rysunek371.jpg, id=17, 150.5625pt x 193.72375pt>
 File: rysunek371.jpg Graphic file (type jpg)
 <use rysunek371.jpg>
-Package pdftex.def Info: rysunek371.jpg  used on input line 75.
+Package pdftex.def Info: rysunek371.jpg  used on input line 80.
 (pdftex.def)             Requested size: 93.59952pt x 120.4356pt.
 
-Overfull \hbox (27.87308pt too wide) in paragraph at lines 69--78
+Overfull \hbox (27.87308pt too wide) in paragraph at lines 74--83
 []$[]$  $[]$ 
  []
 
-[2 <./rysunek375.jpg> <./rysunek369.jpg> <./rysunek367.jpg> <./rysunek371.jpg>]
-[3] (./Damian_Duy_LaTeX_projekt.aux) ) 
+[3]
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 90.
+ (/usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
+File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+) [4 <./rysunek375.jpg> <./rysunek369.jpg> <./rysunek367.jpg> <./rysunek371.jpg
+>]
+(./Damian_Duy_LaTeX_projekt.aux) ) 
 Here is how much of TeX's memory you used:
- 4893 strings out of 494888
- 68353 string characters out of 6179865
- 141826 words of memory out of 5000000
- 8138 multiletter control sequences out of 15000+600000
- 14498 words of font info for 39 fonts, out of 8000000 for 9000
+ 4994 strings out of 494888
+ 70029 string characters out of 6179865
+ 142925 words of memory out of 5000000
+ 8222 multiletter control sequences out of 15000+600000
+ 14811 words of font info for 40 fonts, out of 8000000 for 9000
  34 hyphenation exceptions out of 8191
- 44i,10n,42p,291b,341s stack positions out of 5000i,500n,10000p,200000b,80000s
- </home/damian/.texlive2017/texmf-var/fon
-ts/pk/ljfour/jknappen/ec/ecbx1200.600pk> </home/damian/.texlive2017/texmf-var/f
-onts/pk/ljfour/jknappen/ec/ecbx1440.600pk> </home/damian/.texlive2017/texmf-var
-/fonts/pk/ljfour/jknappen/ec/ecti1200.600pk> </home/damian/.texlive2017/texmf-v
-ar/fonts/pk/ljfour/jknappen/ec/ecbx1728.600pk> </home/damian/.texlive2017/texmf
--var/fonts/pk/ljfour/jknappen/ec/ecrm1200.600pk> </home/damian/.texlive2017/tex
-mf-var/fonts/pk/ljfour/jknappen/ec/ecrm1440.600pk> </home/damian/.texlive2017/t
-exmf-var/fonts/pk/ljfour/jknappen/ec/ecrm2074.600pk></usr/share/texlive/texmf-d
-ist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fo
-nts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/typ
-e1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/publ
-ic/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfo
-nts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
-msy10.pfb>
-Output written on Damian_Duy_LaTeX_projekt.pdf (3 pages, 116499 bytes).
+ 44i,10n,42p,291b,364s stack positions out of 5000i,500n,10000p,200000b,80000s
+ </home/damian/.texlive2017/texmf-var/fonts/p
+k/ljfour/jknappen/ec/ectt1200.600pk> </home/damian/.texlive2017/texmf-var/fonts
+/pk/ljfour/jknappen/ec/ecbx1440.600pk> </home/damian/.texlive2017/texmf-var/fon
+ts/pk/ljfour/jknappen/ec/ecti1200.600pk> </home/damian/.texlive2017/texmf-var/f
+onts/pk/ljfour/jknappen/ec/ecbx1200.600pk> </home/damian/.texlive2017/texmf-var
+/fonts/pk/ljfour/jknappen/ec/ecbx1728.600pk> </home/damian/.texlive2017/texmf-v
+ar/fonts/pk/ljfour/jknappen/ec/ecrm1200.600pk> </home/damian/.texlive2017/texmf
+-var/fonts/pk/ljfour/jknappen/ec/ecrm1440.600pk> </home/damian/.texlive2017/tex
+mf-var/fonts/pk/ljfour/jknappen/ec/ecrm2074.600pk></usr/share/texlive/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/font
+s/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1
+/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cms
+y10.pfb>
+Output written on Damian_Duy_LaTeX_projekt.pdf (4 pages, 133844 bytes).
 PDF statistics:
- 229 PDF objects out of 1000 (max. 8388607)
- 54 compressed objects within 1 object stream
+ 289 PDF objects out of 1000 (max. 8388607)
+ 60 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  21 words of extra memory for PDF output out of 10000 (max. 10000000)
 

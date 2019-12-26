@@ -1,0 +1,6 @@
+\babel@toc {polish}{}
+\babel@toc {polish}{}
+\contentsline {section}{\numberline {1}Bry\IeC {\l }y}{3}
+\contentsline {subsection}{\numberline {1.1}Wzory na obj\IeC {\k e}to\IeC {\'s}\IeC {\'c} i pole powierzchni bry\IeC {\l }.}{3}
+\contentsline {subsection}{\numberline {1.2}Obrazki bry\IeC {\l }.}{3}
+\contentsline {section}{\numberline {2}Ca\IeC {\l }ki}{4}
