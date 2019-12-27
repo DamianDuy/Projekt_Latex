@@ -62,27 +62,69 @@ Cytat nieznanego autora:
 \begin{figure}[h]
 \begin{minipage}[c]{0.3\linewidth}
 \includegraphics[width=\linewidth]{rysunek375.jpg}
-\caption{Stożek}
+\caption{Stożek \cite{MediaNauka}}
 \end{minipage}
 \hfill %rozciąga poziomo, bez tego byłyby obok siebie
 \begin{minipage}[c]{0.3\linewidth}
 \includegraphics[width=\linewidth]{rysunek369.jpg}
-\caption{Piramida}
+\caption{Piramida \cite{MediaNauka}}
 \end{minipage}
 \end{figure}
 \begin{figure}
 \begin{minipage}[c]{0.3\linewidth}
 \includegraphics[width=\linewidth]{rysunek367.jpg}
-\caption{Czworościan foremny}
+\caption{Czworościan foremny \cite{MediaNauka}}
 \end{minipage}
 \hspace{5cm}%rozciąga poziomo o 5 cm (przesuwa drugi rysunek)
 \begin{minipage}[c]{0.4\linewidth}
 \includegraphics[width=0.6\linewidth]{rysunek371.jpg}
-\caption{Ośmiościan szcześcienny\cite{MediaNau}
+\caption{Ośmiościan szcześcienny \cite{MediaNauka}}
 \end{minipage}
 \end{figure}
 \newpage
-\section{Całki}
+\section{Macierze}
+Działania jakie możemy wykonywać na macierzach:
+\begin{enumerate}
+\item dodawanie
+\item odejmowanie
+\item mnożenie
+\item mnożenie przez skalar
+\item odwracanie
+\end{enumerate}
+\center\emph{Przykład dodawania macierzy}
+\cite{MatmaNa6}
+\begin{equation}
+\left[ \begin{array}{ccc}
+1 & 3 & 2 \\
+-1 & 2 & 6 \\
+4 & 6 & -8
+\end{array} \right]
++
+\left[ \begin{array}{ccc}
+3 & 9 & 8 \\
+1 & 0 & -1 \\
+2 & 7 & 8
+\end{array} \right]
+=
+\left[ \begin{array}{ccc}
+1+3 & 3+9 & 2+8 \\
+-1+1 & 2+0 & 6-1 \\
+4+2 & 6+7 & -8+8
+\end{array} \right]
+\end{equation}
+\section{Funkcje}
+Funkcje są opisywane wzorami. Znając wzór funkcji można zaznaczyć na układzie współrzędnych punkty, które do niej należą.
+\newline
+\center\emph{Przykład opisania funkcji wzorem}
+\begin{equation}
+\label{eq:function1}
+f(x) = \left\lbrace
+\begin{array}{ccc}
+\frac{-\tan x}{\cos^3 x} & \text{dla} & x < 0,
+\\\sqrt{x} + \sin x & \text{dla} & x = 0.
+\end{array}
+\right.
+\end{equation}
 \begin{thebibliography}{9}
 \bibitem{MediaNauka}
 Media Nauka,
@@ -90,5 +132,9 @@ Media Nauka,
 \url{https://www.medianauka.pl/objetosc},
 ART-1409,
 2011.
+\bibitem{MatmaNa6}
+Matma na 6,
+\emph{Działania na macierzach}.
+\url{https://www.matmana6.pl/dzialania-na-macierzach},
 \end{thebibliography}
 \end{document}
