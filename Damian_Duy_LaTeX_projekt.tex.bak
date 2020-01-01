@@ -94,6 +94,7 @@ Działania jakie możemy wykonywać na macierzach:
 \center\emph{Przykład dodawania macierzy}
 \cite{MatmaNa6}
 \begin{equation}
+\label{eq:array1}
 \left[ \begin{array}{ccc}
 1 & 3 & 2 \\
 -1 & 2 & 6 \\
@@ -115,16 +116,37 @@ Działania jakie możemy wykonywać na macierzach:
 \section{Funkcje}
 Funkcje są opisywane wzorami. Znając wzór funkcji można zaznaczyć na układzie współrzędnych punkty, które do niej należą.
 \newline
-\center\emph{Przykład opisania funkcji wzorem}
+\center\emph{Przykład opisania funkcji wzorem:}
 \begin{equation}
 \label{eq:function1}
 f(x) = \left\lbrace
 \begin{array}{ccc}
 \frac{-\tan x}{\cos^3 x} & \text{dla} & x < 0,
-\\\sqrt{x} + \sin x & \text{dla} & x = 0.
+\\x^5-0.8 & \text{dla} & x = 0,
+\\\arcsin x^4 & \text{dla} & x > 0
 \end{array}
 \right.
 \end{equation}
+\subsection{Wzory niektórych znanych funkcji}
+\begin{table}[h]
+\caption{Wzory wybranych funkcji}
+\centering
+\label{tab:WzFunkcji}
+\scalebox{1.1}{
+\begin{tabular}[h]{|c|c|}
+\hline
+Funkcja & Wzór funkcji\\
+\hline
+Liniowa & $f(x) = ax + b$\\
+\hline
+Kwadratowa & $f(x) = ax^2 + bx + c$\\
+\hline
+Logarytmiczna & $$\\
+\hline
+Wymierna & $\left{f(x) = \frac{1}{x}}$\\
+\hline
+\end{tabular}}
+\end{table}
 \begin{thebibliography}{9}
 \bibitem{MediaNauka}
 Media Nauka,

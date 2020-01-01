@@ -5,3 +5,4 @@
 \contentsline {subsection}{\numberline {1.2}Obrazki bry\IeC {\l }.}{3}
 \contentsline {section}{\numberline {2}Macierze}{4}
 \contentsline {section}{\numberline {3}Funkcje}{5}
+\contentsline {subsection}{\numberline {3.1}Wzory niekt\IeC {\'o}rych znanych funkcji}{5}

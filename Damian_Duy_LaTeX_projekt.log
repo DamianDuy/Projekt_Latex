@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.12.20)  27 DEC 2019 17:09
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.12.20)  31 DEC 2019 14:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -706,39 +706,44 @@ Overfull \hbox (27.87308pt too wide) in paragraph at lines 74--83
 
 [3] [4 <./rysunek375.jpg> <./rysunek369.jpg> <./rysunek367.jpg> <./rysunek371.j
 pg>]
-LaTeX Font Info:    Try loading font information for T1+cmtt on input line 133.
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 154.
 
  (/usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
-) [5]
-(./Damian_Duy_LaTeX_projekt.aux) ) 
+)
+Underfull \hbox (badness 10000) in paragraph at lines 162--165
+[]\T1/cmr/m/n/12 Edukator, \T1/cmr/m/it/12 Funk-cja lo-ga-ryt-miczna\T1/cmr/m/n
+/12 . $\T1/cmtt/m/n/12 https : / / www . edukator . pl /
+ []
+
+[5] (./Damian_Duy_LaTeX_projekt.aux) ) 
 Here is how much of TeX's memory you used:
- 5000 strings out of 494888
- 70093 string characters out of 6179865
- 142937 words of memory out of 5000000
- 8226 multiletter control sequences out of 15000+600000
+ 5003 strings out of 494888
+ 70129 string characters out of 6179865
+ 143957 words of memory out of 5000000
+ 8229 multiletter control sequences out of 15000+600000
  16341 words of font info for 42 fonts, out of 8000000 for 9000
  34 hyphenation exceptions out of 8191
  44i,10n,42p,291b,364s stack positions out of 5000i,500n,10000p,200000b,80000s
- </home/damian/.texlive2017/texmf-var/fonts/p
-k/ljfour/jknappen/ec/ectt1200.600pk> </home/damian/.texlive2017/texmf-var/fonts
-/pk/ljfour/jknappen/ec/ecbx1440.600pk> </home/damian/.texlive2017/texmf-var/fon
-ts/pk/ljfour/jknappen/ec/ecti1200.600pk> </home/damian/.texlive2017/texmf-var/f
-onts/pk/ljfour/jknappen/ec/ecbx1200.600pk> </home/damian/.texlive2017/texmf-var
-/fonts/pk/ljfour/jknappen/ec/ecbx1728.600pk> </home/damian/.texlive2017/texmf-v
-ar/fonts/pk/ljfour/jknappen/ec/ecrm1200.600pk> </home/damian/.texlive2017/texmf
--var/fonts/pk/ljfour/jknappen/ec/ecrm1440.600pk> </home/damian/.texlive2017/tex
-mf-var/fonts/pk/ljfour/jknappen/ec/ecrm2074.600pk></usr/share/texlive/texmf-dis
-t/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/font
-s/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type
-1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
-c/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfo
-nts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
-mr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pf
-b></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on Damian_Duy_LaTeX_projekt.pdf (5 pages, 164556 bytes).
+ </home/damian/.texlive2017/texmf-var/fon
+ts/pk/ljfour/jknappen/ec/ectt1200.600pk> </home/damian/.texlive2017/texmf-var/f
+onts/pk/ljfour/jknappen/ec/ecbx1440.600pk> </home/damian/.texlive2017/texmf-var
+/fonts/pk/ljfour/jknappen/ec/ecti1200.600pk> </home/damian/.texlive2017/texmf-v
+ar/fonts/pk/ljfour/jknappen/ec/ecbx1200.600pk> </home/damian/.texlive2017/texmf
+-var/fonts/pk/ljfour/jknappen/ec/ecbx1728.600pk> </home/damian/.texlive2017/tex
+mf-var/fonts/pk/ljfour/jknappen/ec/ecrm1200.600pk> </home/damian/.texlive2017/t
+exmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1440.600pk> </home/damian/.texlive2017
+/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm2074.600pk></usr/share/texlive/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy1
+0.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on Damian_Duy_LaTeX_projekt.pdf (5 pages, 170612 bytes).
 PDF statistics:
- 327 PDF objects out of 1000 (max. 8388607)
+ 342 PDF objects out of 1000 (max. 8388607)
  68 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  21 words of extra memory for PDF output out of 10000 (max. 10000000)
